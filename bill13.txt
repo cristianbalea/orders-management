@@ -1,0 +1,10 @@
+Comanda nr.13
+
+Client: Balea Cristian
+Adresa: Unirii nr.14
+E-Mail: baleacristian@gmail.com
+
+Produsul: frigider
+Cantitate: 2
+Pret per produs: 1000
+Pret total: 2000

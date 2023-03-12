@@ -1,0 +1,10 @@
+Comanda nr.11
+
+Client: Balea Cristian
+Adresa: Unirii nr.14
+E-Mail: baleacristian@gmail.com
+
+Produsul: mouse
+Cantitate: 99
+Pret per produs: 5
+Pret total: 495

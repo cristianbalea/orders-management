@@ -1,0 +1,10 @@
+Comanda nr.12
+
+Client: Sicoe Roxana
+Adresa: Republicii nr.32
+E-Mail: sicoeroxana@gmail.com
+
+Produsul: mouse
+Cantitate: 1
+Pret per produs: 5
+Pret total: 5
